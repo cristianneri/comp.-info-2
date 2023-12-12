@@ -1,0 +1,35 @@
+body
+header {
+    background-color: #31165c;
+    color: #e60b0b;
+    text-align: center;
+    padding: 1em;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+    color: #c76868;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: #455031;
+    padding: 0.5em;
+}
+nav a {
+    color: #ce2929;
+    text-decoration: none;
+}
+section {
+    padding: 2em;
+}
+h2 {
+    color: #333;
+}
+p {
+    line-height: 1.6;
+}
